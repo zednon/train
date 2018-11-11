@@ -1,0 +1,26 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: url(156.jpg);
+}
+
+.box {
+    border: darkslategrey solid 10px;
+   background-color: white;
+   padding: 20px;
+   margin: 20px 0;
+}
+
+header {
+    border: 10px darkslategray solid;
+  
+    color: #382929;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#mainB {
+    margin: 10px 125px;
+}
